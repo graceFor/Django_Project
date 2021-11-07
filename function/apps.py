@@ -1,5 +1,5 @@
 from django.apps import AppConfig
-from tensorflow.keras import models
+from tensorflow.python.keras import models
 
 
 class FunctionConfig(AppConfig):
